@@ -2,7 +2,7 @@
  
 
 ## 🚀 Overview  
-Designing a prototype that shows how network slicing can isolate security threats.
+Design and simulate a 5G network prototype with multiple slices, each serving distinct applications. The project will implement security protocols to isolate and contain potential threats like DDoS attacks. This will demonstrate how network slicing can effectively limit the spread of attacks and enhance network resilience.
 
 ---
 
