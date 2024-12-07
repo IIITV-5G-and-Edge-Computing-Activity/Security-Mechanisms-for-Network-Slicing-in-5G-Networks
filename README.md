@@ -2,7 +2,7 @@
  
 
 ## 🚀 Overview  
-Design and simulate a 5G network prototype with multiple slices, each serving distinct applications. The project will implement security protocols to isolate and contain potential threats like DDoS attacks. This will demonstrate how network slicing can effectively limit the spread of attacks and enhance network resilience.
+Designed and simulated a 5G network prototype with multiple slices, each serving distinct applications. The project will implement security protocols to isolate and contain potential threats like DDoS attacks. This will demonstrate how network slicing can effectively limit the spread of attacks and enhance network resilience.
 
 ---
 
@@ -25,6 +25,13 @@ Design and simulate a 5G network prototype with multiple slices, each serving di
 ![image](https://github.com/user-attachments/assets/b06ce4c7-4b2b-47be-bc30-949765f994b6)
 
 ### Latency Comparison
+Slice 1:
+![image](https://github.com/user-attachments/assets/c4f5d4ef-adf7-4f71-b580-4577602c502c)
+
+Slice 2:
+![image](https://github.com/user-attachments/assets/12573aec-6d41-47d9-b539-3a66036346fc)
+
+Slice 3:
 ![image](https://github.com/user-attachments/assets/2b603220-8543-4e21-8b04-1387ddf4f9f6)
 
 
