@@ -1,5 +1,7 @@
 # Security-Mechanisms-for-Network-Slicing-in-5G-Networks 🌐
  
+## Presentation Video Link: 
+https://drive.google.com/file/d/1GKQRyRU3lo4Af5mTMcJPnKzhvg4Me25R/view
 
 ## 🚀 Overview  
 Designed and simulated a 5G network prototype with multiple slices, each serving distinct applications. The project will implement security protocols to isolate and contain potential threats like DDoS attacks. This will demonstrate how network slicing can effectively limit the spread of attacks and enhance network resilience.
